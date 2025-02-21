@@ -7,7 +7,7 @@ Hi, I’m Krishna! A MERN Stack Developer passionate about building scalable web
 💡 Enthusiastic about Web & App Development, Machine Learning, and exploring new-age technologies.<br>
 🔍 Strong believer in the "I will learn it" mindset – no challenge is too big when the right resources are at hand!
 
-💻 Tech Stack & Expertise
+💻 Tech Stack & Expertise <br>
 ✅ Frontend: React.js, Redux, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 ✅ Backend: Node.js, Express.js, REST APIs
 ✅ Database: MongoDB, SQL
