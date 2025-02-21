@@ -4,7 +4,7 @@
 
 Hi, I’m Krishna! A MERN Stack Developer passionate about building scalable web applications and crafting seamless user experiences. My journey in software development started with a deep curiosity about how technology works, and over the years, I’ve honed my skills in full-stack development, problem-solving, and continuous learning.
 
-💡 Enthusiastic about Web & App Development, Machine Learning, and exploring new-age technologies.
+💡 Enthusiastic about Web & App Development, Machine Learning, and exploring new-age technologies.<br>
 🔍 Strong believer in the "I will learn it" mindset – no challenge is too big when the right resources are at hand!
 
 💻 Tech Stack & Expertise
