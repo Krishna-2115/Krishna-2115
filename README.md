@@ -1,4 +1,4 @@
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello I'm Krishna, a Full-Stack MERN Developer 👋🏼:
 
